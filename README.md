@@ -1,8 +1,6 @@
 SublimeLinter-contrib-arc
 ================================
 
-[![Build Status](https://khancdn.eu/badges.php?service=https%3A%2F%2Ftravis-ci.org%2FSublimeLinter%2FSublimeLinter-contrib-arc.png%3Fbranch%3Dmaster)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-arc)
-
 This linter plugin for [SublimeLinter][docs] provides an interface to [arc](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
 
 ## Installation
@@ -27,13 +25,6 @@ To install via Package Control, do the following:
 
 ## Settings
 For general information on how SublimeLinter works with settings, please see [Settings][settings]. For information on generic linter settings, please see [Linter Settings][linter-settings].
-
-In addition to the standard SublimeLinter settings, SublimeLinter-contrib-arc provides its own settings. Those marked as “Inline Setting” or “Inline Override” may also be [used inline][inline-settings].
-
-|Setting|Description|Inline Setting|Inline Override|
-|:------|:----------|:------------:|:-------------:|
-|foo|Something.|&#10003;| |
-|bar|Something else.| |&#10003;|
 
 ## Contributing
 If you would like to contribute enhancements or fixes, please do the following:
