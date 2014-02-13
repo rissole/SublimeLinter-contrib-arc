@@ -9,17 +9,7 @@ This linter plugin for [SublimeLinter][docs] provides an interface to [arc](__li
 SublimeLinter 3 must be installed in order to use this plugin. If SublimeLinter 3 is not installed, please follow the instructions [here][installation].
 
 ### Linter installation
-Before using this plugin, you must ensure that `arc` is installed on your system. To install `arc`, do the following:
-
-1. Install Other.
-
-1. Install `arc` by typing the following in a terminal:
-   ```
-   <package manager> install arc
-   ```
-
-
-**Note:** This plugin requires `arc` __version__ or later.
+Before using this plugin, you must ensure that Arcanist is installed and configured on your system. I'll leave that to you.
 
 ### Linter configuration
 In order for `arc` to be executed by SublimeLinter, you must ensure that its path is available to SublimeLinter. Before going any further, please read and follow the steps in [“Finding a linter executable”](http://sublimelinter.readthedocs.org/en/latest/troubleshooting.html#finding-a-linter-executable) through “Validating your PATH” in the documentation.
